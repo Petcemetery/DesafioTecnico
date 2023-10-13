@@ -1,0 +1,15 @@
+C:\Users\pietr\source\repos\DroneChallengeFinalVersion\src\DesafioTecnico.Dto\bin\Debug\net6\DesafioTecnico.Dto.deps.json
+C:\Users\pietr\source\repos\DroneChallengeFinalVersion\src\DesafioTecnico.Dto\bin\Debug\net6\DesafioTecnico.Dto.dll
+C:\Users\pietr\source\repos\DroneChallengeFinalVersion\src\DesafioTecnico.Dto\bin\Debug\net6\DesafioTecnico.Dto.pdb
+C:\Users\pietr\source\repos\DroneChallengeFinalVersion\src\DesafioTecnico.Dto\bin\Debug\net6\DesafioTecnico.Crosscutting.dll
+C:\Users\pietr\source\repos\DroneChallengeFinalVersion\src\DesafioTecnico.Dto\bin\Debug\net6\DesafioTecnico.Crosscutting.pdb
+C:\Users\pietr\source\repos\DroneChallengeFinalVersion\src\DesafioTecnico.Dto\obj\Debug\net6\DesafioTecnico.Dto.csproj.AssemblyReference.cache
+C:\Users\pietr\source\repos\DroneChallengeFinalVersion\src\DesafioTecnico.Dto\obj\Debug\net6\DesafioTecnico.Dto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pietr\source\repos\DroneChallengeFinalVersion\src\DesafioTecnico.Dto\obj\Debug\net6\DesafioTecnico.Dto.AssemblyInfoInputs.cache
+C:\Users\pietr\source\repos\DroneChallengeFinalVersion\src\DesafioTecnico.Dto\obj\Debug\net6\DesafioTecnico.Dto.AssemblyInfo.cs
+C:\Users\pietr\source\repos\DroneChallengeFinalVersion\src\DesafioTecnico.Dto\obj\Debug\net6\DesafioTecnico.Dto.csproj.CoreCompileInputs.cache
+C:\Users\pietr\source\repos\DroneChallengeFinalVersion\src\DesafioTecnico.Dto\obj\Debug\net6\DesafioTecnico.Dto.csproj.CopyComplete
+C:\Users\pietr\source\repos\DroneChallengeFinalVersion\src\DesafioTecnico.Dto\obj\Debug\net6\DesafioTecnico.Dto.dll
+C:\Users\pietr\source\repos\DroneChallengeFinalVersion\src\DesafioTecnico.Dto\obj\Debug\net6\refint\DesafioTecnico.Dto.dll
+C:\Users\pietr\source\repos\DroneChallengeFinalVersion\src\DesafioTecnico.Dto\obj\Debug\net6\DesafioTecnico.Dto.pdb
+C:\Users\pietr\source\repos\DroneChallengeFinalVersion\src\DesafioTecnico.Dto\obj\Debug\net6\ref\DesafioTecnico.Dto.dll

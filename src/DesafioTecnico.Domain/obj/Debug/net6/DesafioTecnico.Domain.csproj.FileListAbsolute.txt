@@ -1,0 +1,17 @@
+C:\Users\pietr\source\repos\DroneChallengeFinalVersion\src\DesafioTecnico.Domain\bin\Debug\net6\DesafioTecnico.Domain.deps.json
+C:\Users\pietr\source\repos\DroneChallengeFinalVersion\src\DesafioTecnico.Domain\bin\Debug\net6\DesafioTecnico.Domain.dll
+C:\Users\pietr\source\repos\DroneChallengeFinalVersion\src\DesafioTecnico.Domain\bin\Debug\net6\DesafioTecnico.Domain.pdb
+C:\Users\pietr\source\repos\DroneChallengeFinalVersion\src\DesafioTecnico.Domain\bin\Debug\net6\DesafioTecnico.Crosscutting.dll
+C:\Users\pietr\source\repos\DroneChallengeFinalVersion\src\DesafioTecnico.Domain\bin\Debug\net6\DesafioTecnico.Dto.dll
+C:\Users\pietr\source\repos\DroneChallengeFinalVersion\src\DesafioTecnico.Domain\bin\Debug\net6\DesafioTecnico.Crosscutting.pdb
+C:\Users\pietr\source\repos\DroneChallengeFinalVersion\src\DesafioTecnico.Domain\bin\Debug\net6\DesafioTecnico.Dto.pdb
+C:\Users\pietr\source\repos\DroneChallengeFinalVersion\src\DesafioTecnico.Domain\obj\Debug\net6\DesafioTecnico.Domain.csproj.AssemblyReference.cache
+C:\Users\pietr\source\repos\DroneChallengeFinalVersion\src\DesafioTecnico.Domain\obj\Debug\net6\DesafioTecnico.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pietr\source\repos\DroneChallengeFinalVersion\src\DesafioTecnico.Domain\obj\Debug\net6\DesafioTecnico.Domain.AssemblyInfoInputs.cache
+C:\Users\pietr\source\repos\DroneChallengeFinalVersion\src\DesafioTecnico.Domain\obj\Debug\net6\DesafioTecnico.Domain.AssemblyInfo.cs
+C:\Users\pietr\source\repos\DroneChallengeFinalVersion\src\DesafioTecnico.Domain\obj\Debug\net6\DesafioTecnico.Domain.csproj.CoreCompileInputs.cache
+C:\Users\pietr\source\repos\DroneChallengeFinalVersion\src\DesafioTecnico.Domain\obj\Debug\net6\DesafioTecnico.Domain.csproj.CopyComplete
+C:\Users\pietr\source\repos\DroneChallengeFinalVersion\src\DesafioTecnico.Domain\obj\Debug\net6\DesafioTecnico.Domain.dll
+C:\Users\pietr\source\repos\DroneChallengeFinalVersion\src\DesafioTecnico.Domain\obj\Debug\net6\refint\DesafioTecnico.Domain.dll
+C:\Users\pietr\source\repos\DroneChallengeFinalVersion\src\DesafioTecnico.Domain\obj\Debug\net6\DesafioTecnico.Domain.pdb
+C:\Users\pietr\source\repos\DroneChallengeFinalVersion\src\DesafioTecnico.Domain\obj\Debug\net6\ref\DesafioTecnico.Domain.dll

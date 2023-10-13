@@ -1,0 +1,8 @@
+{
+  "desafio-tecnico, Version=0.0.1.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\pietr\\source\\repos\\DroneChallengeFinalVersion\\src\\DesafioTecnico",
+  "DesafioTecnico.Crosscutting, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\pietr\\source\\repos\\DroneChallengeFinalVersion\\src\\DesafioTecnico.Crosscutting",
+  "DesafioTecnico.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\pietr\\source\\repos\\DroneChallengeFinalVersion\\src\\DesafioTecnico.Domain",
+  "DesafioTecnico.Domain.Services, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\pietr\\source\\repos\\DroneChallengeFinalVersion\\src\\DesafioTecnico.Domain.Services",
+  "DesafioTecnico.Dto, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\pietr\\source\\repos\\DroneChallengeFinalVersion\\src\\DesafioTecnico.Dto",
+  "DesafioTecnico.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\pietr\\source\\repos\\DroneChallengeFinalVersion\\src\\DesafioTecnico.Infrastructure"
+}

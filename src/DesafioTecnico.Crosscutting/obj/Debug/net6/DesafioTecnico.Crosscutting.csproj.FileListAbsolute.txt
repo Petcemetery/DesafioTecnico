@@ -1,0 +1,11 @@
+C:\Users\pietr\source\repos\DroneChallengeFinalVersion\src\DesafioTecnico.Crosscutting\bin\Debug\net6\DesafioTecnico.Crosscutting.deps.json
+C:\Users\pietr\source\repos\DroneChallengeFinalVersion\src\DesafioTecnico.Crosscutting\bin\Debug\net6\DesafioTecnico.Crosscutting.dll
+C:\Users\pietr\source\repos\DroneChallengeFinalVersion\src\DesafioTecnico.Crosscutting\bin\Debug\net6\DesafioTecnico.Crosscutting.pdb
+C:\Users\pietr\source\repos\DroneChallengeFinalVersion\src\DesafioTecnico.Crosscutting\obj\Debug\net6\DesafioTecnico.Crosscutting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pietr\source\repos\DroneChallengeFinalVersion\src\DesafioTecnico.Crosscutting\obj\Debug\net6\DesafioTecnico.Crosscutting.AssemblyInfoInputs.cache
+C:\Users\pietr\source\repos\DroneChallengeFinalVersion\src\DesafioTecnico.Crosscutting\obj\Debug\net6\DesafioTecnico.Crosscutting.AssemblyInfo.cs
+C:\Users\pietr\source\repos\DroneChallengeFinalVersion\src\DesafioTecnico.Crosscutting\obj\Debug\net6\DesafioTecnico.Crosscutting.csproj.CoreCompileInputs.cache
+C:\Users\pietr\source\repos\DroneChallengeFinalVersion\src\DesafioTecnico.Crosscutting\obj\Debug\net6\DesafioTecnico.Crosscutting.dll
+C:\Users\pietr\source\repos\DroneChallengeFinalVersion\src\DesafioTecnico.Crosscutting\obj\Debug\net6\refint\DesafioTecnico.Crosscutting.dll
+C:\Users\pietr\source\repos\DroneChallengeFinalVersion\src\DesafioTecnico.Crosscutting\obj\Debug\net6\DesafioTecnico.Crosscutting.pdb
+C:\Users\pietr\source\repos\DroneChallengeFinalVersion\src\DesafioTecnico.Crosscutting\obj\Debug\net6\ref\DesafioTecnico.Crosscutting.dll
