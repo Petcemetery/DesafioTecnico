@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = DesafioTecnico.Dto
-build_property.ProjectDir = C:\Users\pietr\source\repos\DroneChallengeFinalVersion\src\DesafioTecnico.Dto\
+build_property.ProjectDir = C:\Users\pietr\source\repos\DroneChallengeFinalVersion\DesafioTecnico\src\DesafioTecnico.Dto\

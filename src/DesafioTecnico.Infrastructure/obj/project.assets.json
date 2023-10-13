@@ -2852,11 +2852,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pietr\\source\\repos\\DroneChallengeFinalVersion\\src\\DesafioTecnico.Infrastructure\\DesafioTecnico.Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\pietr\\source\\repos\\DroneChallengeFinalVersion\\DesafioTecnico\\src\\DesafioTecnico.Infrastructure\\DesafioTecnico.Infrastructure.csproj",
       "projectName": "DesafioTecnico.Infrastructure",
-      "projectPath": "C:\\Users\\pietr\\source\\repos\\DroneChallengeFinalVersion\\src\\DesafioTecnico.Infrastructure\\DesafioTecnico.Infrastructure.csproj",
+      "projectPath": "C:\\Users\\pietr\\source\\repos\\DroneChallengeFinalVersion\\DesafioTecnico\\src\\DesafioTecnico.Infrastructure\\DesafioTecnico.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\pietr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pietr\\source\\repos\\DroneChallengeFinalVersion\\src\\DesafioTecnico.Infrastructure\\obj\\",
+      "outputPath": "C:\\Users\\pietr\\source\\repos\\DroneChallengeFinalVersion\\DesafioTecnico\\src\\DesafioTecnico.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2878,14 +2878,14 @@
         "net6.0": {
           "targetAlias": "net6",
           "projectReferences": {
-            "C:\\Users\\pietr\\source\\repos\\DroneChallengeFinalVersion\\src\\DesafioTecnico.Crosscutting\\DesafioTecnico.Crosscutting.csproj": {
-              "projectPath": "C:\\Users\\pietr\\source\\repos\\DroneChallengeFinalVersion\\src\\DesafioTecnico.Crosscutting\\DesafioTecnico.Crosscutting.csproj"
+            "C:\\Users\\pietr\\source\\repos\\DroneChallengeFinalVersion\\DesafioTecnico\\src\\DesafioTecnico.Crosscutting\\DesafioTecnico.Crosscutting.csproj": {
+              "projectPath": "C:\\Users\\pietr\\source\\repos\\DroneChallengeFinalVersion\\DesafioTecnico\\src\\DesafioTecnico.Crosscutting\\DesafioTecnico.Crosscutting.csproj"
             },
-            "C:\\Users\\pietr\\source\\repos\\DroneChallengeFinalVersion\\src\\DesafioTecnico.Domain\\DesafioTecnico.Domain.csproj": {
-              "projectPath": "C:\\Users\\pietr\\source\\repos\\DroneChallengeFinalVersion\\src\\DesafioTecnico.Domain\\DesafioTecnico.Domain.csproj"
+            "C:\\Users\\pietr\\source\\repos\\DroneChallengeFinalVersion\\DesafioTecnico\\src\\DesafioTecnico.Domain\\DesafioTecnico.Domain.csproj": {
+              "projectPath": "C:\\Users\\pietr\\source\\repos\\DroneChallengeFinalVersion\\DesafioTecnico\\src\\DesafioTecnico.Domain\\DesafioTecnico.Domain.csproj"
             },
-            "C:\\Users\\pietr\\source\\repos\\DroneChallengeFinalVersion\\src\\DesafioTecnico.Dto\\DesafioTecnico.Dto.csproj": {
-              "projectPath": "C:\\Users\\pietr\\source\\repos\\DroneChallengeFinalVersion\\src\\DesafioTecnico.Dto\\DesafioTecnico.Dto.csproj"
+            "C:\\Users\\pietr\\source\\repos\\DroneChallengeFinalVersion\\DesafioTecnico\\src\\DesafioTecnico.Dto\\DesafioTecnico.Dto.csproj": {
+              "projectPath": "C:\\Users\\pietr\\source\\repos\\DroneChallengeFinalVersion\\DesafioTecnico\\src\\DesafioTecnico.Dto\\DesafioTecnico.Dto.csproj"
             }
           }
         }

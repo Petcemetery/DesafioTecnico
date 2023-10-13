@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "m240ePSbzYV2woelCCym0/Sw/ar0iIa0BgDvMf4aNr2RsQQtqWMcHrd1ZMO3IqOT6w2XyoelHGDgj2P2pXjUhA==",
+  "dgSpecHash": "Lw1hwOquN5ZaOJ+p+rhh6trIw9MclhRrw4t1TMP5lX1sU3zqRi7i8s99CyP9qwVGlJlrVQ/edvM71eML0ngQ+A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\pietr\\source\\repos\\DroneChallengeFinalVersion\\src\\DesafioTecnico.Infrastructure\\DesafioTecnico.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\pietr\\source\\repos\\DroneChallengeFinalVersion\\DesafioTecnico\\src\\DesafioTecnico.Infrastructure\\DesafioTecnico.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pietr\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\pietr\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
